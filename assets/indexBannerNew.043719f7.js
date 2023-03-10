@@ -1,0 +1,1 @@
+import{a as n,L as a,e1 as o,o as r,h as t}from"./index.664a474d.js";const s=n({name:"LogisticsPage",components:{},setup(){function e(){o.push({name:"\u8BA2\u8231\u4E2D\u5FC3"})}return{myBooking:e}}}),c={class:"page-banner"};function p(e,_,i,u,d,g){return r(),t("div",c)}var m=a(s,[["render",p]]);export{m as default};

@@ -1,0 +1,1 @@
+import{L as e,a as o,o as s,h as t,i as a}from"./index.664a474d.js";const n=o({name:"workbench"}),c={class:"page-card"},r=a("h1",null,"\u5DE5\u4F5C\u53F0",-1),_=[r];function d(i,p,u,f,h,l){return s(),t("div",c,_)}var x=e(n,[["render",d]]);export{x as default};
